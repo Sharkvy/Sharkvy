@@ -24,6 +24,8 @@
 
 <div align="center">
   <a href="">
-    <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p6NjRqbHNtdnVhMmRyaXg2bWEwaHJmNWl2ZW10bDF3dWV3bnl6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tjYS8yUChlzSmdKx9x/giphy.gif"/>
+    <img height="500" src="https://nl.pinterest.com/pin/766104586627235748/"/>
   </a>
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p6NjRqbHNtdnVhMmRyaXg2bWEwaHJmNWl2ZW10bDF3dWV3bnl6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tjYS8yUChlzSmdKx9x/giphy.gif
+  
 </div>
