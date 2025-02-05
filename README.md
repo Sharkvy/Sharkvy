@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20everyone!🐱&textBg=false&fontAlignY=42"/>
 </p>
-<div align="center">
+<div onclick="false" align="center">
 <a align= href="">
   <img height="40" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
