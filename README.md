@@ -24,7 +24,7 @@
 
 <div>
   <a href="">
-    <img height="40" src="https://tenor.com/nl/view/funny-eyeofrah-eye-of-rah-gif-9337038677048830451"/>
+    <img height="40" src="https://tenor.com/nl/view/water-anime-aesthetic-pretty-moon-gif-18783444"/>
   </a>
 </div>
 
