@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharkvy&show_icons=true&theme=monokai" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharkvy&layout=compact&theme=monokai" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharkvy&layout=compact&theme=monokai" height="100" alt="languages graph" />
 </div>
 
 
