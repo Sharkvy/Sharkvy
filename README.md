@@ -25,7 +25,7 @@
 
 ---
 
-## 🎬 Fun GIF
+## 🎬
 <p align="center">
   <a href="#">
     <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVld3NqenI4aGx3MHAxZnNlazdxbzFjaXc3YXM1b3lweHBhMGZiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qE0muaocjr3uVp4ty/giphy.gif"/>
