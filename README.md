@@ -54,6 +54,6 @@
 ## 🎵 Spotify Now Playing
 <p align="center">
   <a href="#">
-    <img height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mateokristic2005&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff8000&bar_color_cover=false"/>
+    <img height="200" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mateokristic2005&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff8000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
   </a>
 </p>
