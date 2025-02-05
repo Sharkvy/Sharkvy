@@ -28,7 +28,7 @@
     <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVld3NqenI4aGx3MHAxZnNlazdxbzFjaXc3YXM1b3lweHBhMGZiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qE0muaocjr3uVp4ty/giphy.gif"/>
   </a>
   <a href="">
-    <img height="500" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mateokristic2005&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff8000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
+    <img height="500" src="https://spotify-github-profile.kittinanx.com/api/view?uid=mateokristic2005&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff8000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
   </a>
 </div>
 
